@@ -1,0 +1,2 @@
+
+The website is a personal portfolio. It includes sections such as about, skills, education, work experience, and contact information. Interactive elements like a navigation bar with smooth scrolling and a hero section with a typing effect are included. The "Read" button expands content sections for detailed information, while the "View" button would typically show code. The website features responsive design for different devices.
